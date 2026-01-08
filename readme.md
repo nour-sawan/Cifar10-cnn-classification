@@ -40,3 +40,8 @@ The workflow covers model training, validation, overfitting analysis, and perfor
 1. Open the notebook in Google Colab or Jupyter Notebook
 2. Run all cells from top to bottom
 3. Training and evaluation results will be displayed automatically
+
+## Sample Images from the CIFAR-10 Dataset
+
+Below are example images from the CIFAR-10 dataset, showing different object classes used during training and evaluation.
+![CIFAR-10 Sample Images](sample_predictions.png)
