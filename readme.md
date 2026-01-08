@@ -44,6 +44,12 @@ The workflow covers model training, validation, overfitting analysis, and perfor
 ## Sample Images from the CIFAR-10 Dataset
 
 Below are example images from the CIFAR-10 dataset, showing different object classes used during training and evaluation.
+<p align="center">
+  <img src="./CIFAR-10%20Sample%20Images.png" alt="CIFAR sample images" width="700"/>
+</p>
+
+(If the image does not render, try this raw link:
+https://raw.githubusercontent.com/nour-sawan/Cifar10-cnn
 
 
 
